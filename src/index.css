@@ -22,7 +22,8 @@ code {
 }
 
 .markDown,.rendText{
-    height: 35em;
+    height: auto;
+    overflow: hidden;
     width: 35em;
     border: solid rgb(123, 123, 209) 5px;
     border-top: solid royalblue 15px;
